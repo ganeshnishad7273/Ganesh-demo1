@@ -1,4 +1,4 @@
 # Ganesh-demo
 This is my first Git Repository.
 <br>
-Auther - Ganesh Nishad
+Auther - Ganesh (Ganesh demo)
